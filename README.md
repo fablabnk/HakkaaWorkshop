@@ -8,9 +8,9 @@ The soldering and build should take around an hour, and the rest of workshop wil
 
 # Project Repo's
 
-[Hardware](https://github.com/hakkaatachi/hakkaa-hardware): Contain's all the board design files
-[Firmware](https://github.com/hakkaatachi/hakkaa-firmware): Contain's the microcontroller firmware and some code examples and tests
-[Workshop](https://github.com/hakkaatachi/hakka-workshop): Some useful notes on coding in embedded rust from the workshop the organisers ran at Chaos Communication Congress
+- [Hardware](https://github.com/hakkaatachi/hakkaa-hardware): Contain's all the board design files
+- [Firmware](https://github.com/hakkaatachi/hakkaa-firmware): Contain's the microcontroller firmware and some code examples and tests
+- [Workshop](https://github.com/hakkaatachi/hakka-workshop): Some useful notes on coding in embedded rust from the workshop the organisers ran at Chaos Communication Congress
 
 # Ways to Solder It
 
