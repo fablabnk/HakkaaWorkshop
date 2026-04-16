@@ -1,0 +1,9 @@
+[submodule "hakkaa-firmware"]
+	path = hakkaa-firmware
+	url = https://github.com/hakkaatachi/hakkaa-firmware.git
+[submodule "hakkaa-hardware"]
+	path = hakkaa-hardware
+	url = https://github.com/hakkaatachi/hakkaa-hardware.git
+[submodule "hakka-workshop"]
+	path = hakka-workshop
+	url = https://github.com/hakkaatachi/hakka-workshop.git
