@@ -69,7 +69,7 @@ Rust's 'cargo' command makes pulling in the relevant packages really easy
 
 ## Embedded Rust Language and Code Examples
 
-- [These slides](https://christian-meusel.de/presentations/2025-39c3-embedded-rust-for-hakkaa-2/1) are a good starting point, we can go through them together
+- [The slides in this repo](https://github.com/hakkaatachi/hakka-workshop) are a good starting point, we can go through them together
 
 The basics are:
 - In Embedded Rust we have no access to rust standard library
